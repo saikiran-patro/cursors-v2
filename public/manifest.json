@@ -1,8 +1,8 @@
 {
-    "version": "3.0.0",
+    "version": "3.0.1",
     "manifest_version": 2,
-    "name": "cursors",
-    "description": "Clean new tab page made with 💟",
+    "name": "Cursors: New Tab",
+    "description": "New tab page with cool backgrounds!",
     "icons": {
         "128": "./images/icon.png",
         "48": "./images/icon.png",
